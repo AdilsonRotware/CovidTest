@@ -15,7 +15,7 @@ Certifique-se de ter o Node.js instalado antes de prosseguir.
 # Acesse o diretório do projeto:
 
 1. Terminal
-cd TestAP
+cd CovidTest
 Instale as dependências do projeto:
 
 2. Terminal
